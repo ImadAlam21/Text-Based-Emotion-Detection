@@ -9,7 +9,7 @@ torchvision
 torchaudio
 transformers
 scikit-learn
-spacyspacy==3.5.0
+spacyspacy
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
 textblob
 langdetect
@@ -19,5 +19,5 @@ plotly
 altair
 gdown
 translate 
-googletrans==4.0.0-rc1
+googletrans
 
